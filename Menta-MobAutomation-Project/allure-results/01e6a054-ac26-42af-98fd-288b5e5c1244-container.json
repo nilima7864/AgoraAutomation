@@ -1,0 +1,1 @@
+{"uuid":"01e6a054-ac26-42af-98fd-288b5e5c1244","name":"Default suite","children":["1e2992e1-f54e-480b-8633-c6184c9a51d2"],"befores":[],"afters":[{"name":"sendMail","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1677480486650,"stop":1677480486653}],"start":1677480477927,"stop":1677480486653}
