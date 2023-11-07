@@ -11,7 +11,7 @@ public class TestNGRunner {
 			glue = { "com.cucumber.stepdefinition" },
 			strict = false,
 			dryRun = false,
-				tags = {"@IM_WRU_Screen"},
+				tags = {"@AWS_IM_Login"},
 				     //@IM_AWS , @GL_AWS , @L_AWS
 					//AndroidMenta_Sanity
 				   // @GL_Sanity , @L_Sanity , @IM_Sanity 
